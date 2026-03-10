@@ -1,76 +1,22 @@
-<div align="center">
-
 # RightLayout
 
-**Type freely.**
+RightLayout fixes the wrong keyboard layout while you type.
+It stays out of the way, which is rare and welcome.
 
-RightLayout fixes your keyboard mistakes before you notice them.
+## Quick Start
 
-[Download](https://github.com/chernistry/RightLayout/releases/latest) · [Website](https://hireex.ai/rightlayout)
+Download the latest `.pkg` from [Releases](https://github.com/chernistry/RightLayout/releases/latest), install it, then grant Accessibility access on macOS.
+If you want the source build instead: `git clone https://github.com/chernistry/RightLayout-src.git && cd RightLayout-src && ./rightlayout.sh run`.
 
----
+## How It Works
 
-*English · Russian · Hebrew*
+Type in the wrong layout, and RightLayout maps it back to what you meant in English, Russian, or Hebrew.
+There are no hotkeys, no ritual, and no cloud round-trip pretending to be useful.
 
-*macOS 13+ · Free*
+## Perks
 
-</div>
+- Local-first and private: correction happens on your Mac.
+- Learns your habits: repeated undo becomes a preference.
+- Built for daily typing, not demo theatre.
 
----
-
-## How it works
-
-You type in the wrong layout → RightLayout corrects it instantly.
-
-```
-ghbdtn  →  привет
-руддщ   →  hello  
-akuo    →  שלום
-```
-
-No hotkeys. No notifications. Just correct text.
-
----
-
-## Features
-
-**Works invisibly**  
-No popups, no interruptions. Corrections happen as you type.
-
-**Learns you**  
-Undo a correction twice — RightLayout remembers. It adapts to your writing style.
-
-**Stays private**  
-Everything runs on your Mac. Nothing leaves your device. Ever.
-
----
-
-## Install
-
-1. Download the `.pkg` from [Releases](https://github.com/chernistry/RightLayout/releases/latest)
-2. Run the installer
-3. Grant Accessibility permission when prompted
-4. Done — RightLayout works in the background
-
----
-
-## Permissions
-
-RightLayout needs **Accessibility** access to detect and correct your typing. It cannot read passwords or secure fields.
-
-All processing happens locally on your Mac.
-
----
-
-## Feedback
-
-Found a bug? Have a suggestion?  
-[Open an issue](https://github.com/chernistry/RightLayout/issues)
-
----
-
-<div align="center">
-
-Made with care by [Alex Chernysh](https://hireex.ai)
-
-</div>
+Built by Alex Chernysh — alex@hireex.ai
