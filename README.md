@@ -19,4 +19,4 @@ There are no hotkeys, no ritual, and no cloud round-trip pretending to be useful
 - Learns your habits: repeated undo becomes a preference.
 - Built for daily typing, not demo theatre.
 
-Built by Alex Chernysh — alex@hireex.ai
+Built by Alex Chernysh — alex@alexchernysh.com
