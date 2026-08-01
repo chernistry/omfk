@@ -8,7 +8,7 @@ import argparse
 # UPDATED: Added common conversational/slang/profanity words that might be missing from formal Wikipedia data.
 COMMON_SEEDS = {
     "en": "hello hi lol ok wow thanks yes no maybe please sorry bro dude wtf omg idc idk u r ur".split(),
-    "ru": "привет пока да нет ок спс пж лол кек сука блять нахуй пиздец говно залупа мудак педрило ебок привет как дела че кого хах".split(),
+    "ru": "привет пока да нет ок спс пж лол кек норм капец жесть офигеть класс супер ужас блин привет как дела че кого хах".split(),
     "he": "שלום היי ביי טוב לא כן תודה בבקשה סבבה יאללה אח שלי חיים כפרה זין מניאק שרמוטה בן זונה".split()
 }
 

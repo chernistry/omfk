@@ -106,10 +106,7 @@ See [CONTRIBUTING.md](CONTRIBUTING.md) for details on adding features and langua
 
 ## License
 
-Source Available — Non-Commercial.  
-See [LICENSE](LICENSE) for details.
-
-For commercial licensing inquiries, contact: alex@alexchernysh.com
+Apache-2.0 — see [LICENSE](LICENSE).
 
 ---
 
